@@ -6,8 +6,7 @@ I am currently working in the area of programming and studying more and more abo
  
 - 🔭 I am currently working on my personal projects
 - 🌱 I'm currently learning about TypeScript
-- 📫 How to get to me: 
-    -[linkedin](https://linkedin.com/in/aristeu-garcia-7007a0202) <br>
-    -E-Mail: aristeugarcia.dev@gmail.com
+- 📫 How to get to me: [linkedin](https://linkedin.com/in/aristeu-garcia-7007a0202) <br>
+    - E-Mail: aristeugarcia.dev@gmail.com
                                                                                   
  
