@@ -29,7 +29,7 @@ I am currently working in the area of programming and studying more and more abo
 </div>
 
 <div>
-  <a href="https://github.com/Aristeu-dev">
+  <a href="https://github.com/aristeu-garcia">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristeu-dev&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aristeu-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
